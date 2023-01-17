@@ -42,41 +42,41 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii at Manoa",
+      "position": "Research Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-10",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Conduct user research and product research on gamified digital health to design web applications for digital psychiatric healthcare",
+        
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Hawaii at Manoa",
+      "position": "Volunteer Projects Assistant",
+      "website": "",
+      "startDate": "2021-08",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Organize monthly volunteer projects and events to increase civic engagement in students",
+        "Oversee product development and communication for a civic engagement web application to facilitate community service events and opportunities"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
+      "organization": "AI4ALL - College Pathways",
+      "website": "",
+      "position": "Discover AI Participant",
+      "startDate": "2022-09",
+      "endDate": "2022-12",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Investigated the societal and ethical impacts of artificial intelligence and data processing",
+        "Learned about the applications and technical concepts of the different types of machine learning"
       ]
     },
     {
@@ -87,24 +87,23 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Vice President, Supporting Women in Information Technology & Computing, 2022-Present",
+        "Member, ACM Manoa, 2021-Present",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Regents Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Prestigious, full tuition scholarship awarded to 20 freshmen for 4 years of undergraduate study, $4000 yearly stipend, and a $2000 travel stipend."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Aspirations in Computing State Winner",
+      "date": "2020",
+      "awarder": "National Center for Women and Information Technology",
+      "summary": "Recognized for having significantly demonstrated interest and aptitude for computing."
     }
   ],
   "references": [
