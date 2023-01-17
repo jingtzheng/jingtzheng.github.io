@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/wrc_uhm.jpg">
 
 Having done programming using both object oriented programming languages like Java and statistical programming languages like SAS and R, functional programming is a beast of its own. It was quite confusing how you could use the keyword function or the keyword const to declare a function and the arrow operator was also puzzling. Well, so is Javascript good or bad? Like everything around us, it has its merits and its drawbacks. It is nice that you don’t have to waste time typing extra syntax in Javascript like there is no data type that you declare when you make variables. Functions are first-class, meaning that functions can be passed as arguments, functions can be returned, and functions can be assigned to variables. How powerful is this! Everything is simple and to the point. However, this simplicity is just too simple for me since I am used to everything having a type ranging from functions to variables.
 
