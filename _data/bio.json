@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "HTML/CSS", "SAS", "R", "Javascript", "Python" ]
+      "keywords": [ "Java", "HTML/CSS", "SAS", "R", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -87,7 +87,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Vice President, Supporting Women in Information Technology & Computing, 2022-Present",
+        "Vice President, Supporting Women in Information Technology & Computing (SWITCH), 2022-Present",
         "Member, ACM Manoa, 2021-Present",
       ]
     }
