@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhcc-poster.pdf
+image: img/uhcc-poster.png
 title: "UH Cancer Center Internship"
 date: 2022
 published: true
