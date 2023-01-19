@@ -19,6 +19,6 @@ I actively participated in seminar talks and journals clubs held by the faculty 
 You can find my final poster below.
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/uhcc-poster.png" class="img-thumbnail" >
+  <img width="500px" src="../img/uhcc-poster.png" class="img-thumbnail" >
   
 </div>
