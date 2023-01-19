@@ -17,3 +17,8 @@ I conducted research at the University of Hawaii Cancer Center under Dr. Lynne W
 I actively participated in seminar talks and journals clubs held by the faculty researchers at the University of Hawaii Cancer Center and John A. Burns School of Medicine. These research ideas sparked my interest in the intersection of software, systems, and society and the overall implications of these revolutionary software advances in the world.
 
 You can find my final poster below.
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/uhcc-poster.png" class="img-thumbnail" >
+  
+</div>
