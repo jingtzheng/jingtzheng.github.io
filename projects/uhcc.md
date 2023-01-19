@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/uhcc.png
-title: "UH Cancer Center Internship"
+title: "Dietary Data Analysis"
 date: 2022
 published: true
 labels:
