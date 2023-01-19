@@ -64,6 +64,29 @@
         "Organize monthly volunteer projects and events to increase civic engagement in students",
         "Oversee product development and communication for a civic engagement web application to facilitate community service events and opportunities"
       ]
+    },
+      {
+      "company": "University of Hawaii Cancer Center",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2022-05",
+      "endDate": "2022-07",
+      "summary": "",
+      "highlights": [
+        "Performed data wrangling and statistical analyses using SAS on complex and large datasets",
+        "Implemented data visualization techniques to showcase findings on the topic of comparing dietary indices in children and adults in the Pacific"    
+      ]
+    },
+    {
+      "company": "Pacific Health Analytics Collaborative",
+      "position": "Data Analytics Intern",
+      "website": "",
+      "startDate": "2021-06",
+      "endDate": "2021-07",
+      "summary": "",
+      "highlights": [
+        "Analyzed Youth Risk Behavior Surveillance System data using statistical analyses in R and communicated results using data visualizations"    
+      ]
     }
   ],
   "volunteer": [
