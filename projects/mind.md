@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CareTaskLogo.png
+image: img/caretask.png
 title: "CareTask"
 date: 2021
 published: true
