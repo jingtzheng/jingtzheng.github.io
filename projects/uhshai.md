@@ -8,7 +8,7 @@ published: true
 labels:
   - Data Analysis
   - R
-summary: "My team analyzed YRBSS Data and presented our research findings."
+summary: "My team analyzed YRBSS Data and presented our research findings on the relationship between substance abuse and bullying."
 ---
 
 At the Pacific Health Analytics Collaborative, as a research assistant, I analyzed national 2019 Youth Risk Behavior Surveillance System (YRBSS) data from the Centers for Disease and Control using the programming language R. We specifically focused on youth that were aged 12-18 residing in the State of Hawaii. Using the data, I conducted a study regarding the association between substance use, specifically tobacco use, and bullying among youth in Hawaii. I collaborated with epidemiologists, data scientists, and public health researchers on this study. The data was further analyzed using statistical computing like chi-square test, multiple logistic regression, and odds ratio. My insights were communicated using data visualization packages like ggplot2 in R. 
