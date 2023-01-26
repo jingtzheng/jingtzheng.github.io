@@ -1,56 +1,44 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Questions of Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2023-01-26
+published: true
 labels:
   - Questions
   - Answers
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/question.png">
 
-## Is there such thing as a stupid question?
+## My curiosity
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+As a curious child, I have always asked questions. I would always ask 'why' and 'how' and often jump ahead of the lectures. Teachers would always say "Wait, it is on the next slide! We are getting there." Sometimes, the teachers tell me that they don't know the answer either or you don't need to learn that in-depth. But, as a curious soul, I just had to learn about the topic to the very nitty-gritty bits. Teachers would always mention to me that there are no dumb questions so just ask away! But is this applicable to the real-life when we are actually creating technical solutions for the world?
 
-## What’s a smart question?
+## A question considered as not as SMART
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Over the recent years, Stack Overflow has emerged as the top platform to ask for help on technical questions that programmers are encountering. As programmers range from various skill levels, the quality of questions can also range from bad to good questions. 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+The following example demonstrates a question that is not as smart. The author of the question seeks to write python code for certain conditions. 
 
 ```
-Q: python date of the previous month
+Q: I need help coding this scenario
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+Closed. This question needs to be more focused. It is not currently accepting answers.
+Want to improve this question? Update the question so it focuses on one problem only by editing this post.
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+Closed 6 days ago.
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+I can watch another episode before bed:
 
-I have solved this trouble in bash with:
+If it it is before 1 AM and I don't have work or class in the morning
 
-echo $(date -d"3 month ago" "+%G%m%d")
+or it is the weekend.
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
+Using python code this scenrio
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
 ```
 
 While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
