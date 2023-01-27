@@ -52,5 +52,5 @@ Firstly, this person’s title is to the point and descriptive. He/she explains 
 
 ## The closing of non-smart questions
 
-Definitely, Stack Overflow has been the number one platform where programmers seek answers to these pressing questions. Creating smart questions would only further benefit us and others that might have the same question and problem. Smart questions allow people around the world to understand what issue you are specifically having and do their best using their expertise to help you. Therefore, it is important that as a programmer, we communicate clearly on Stack Overflow and this extends beyond to our clients, managers, and colleagues.
+Definitely, Stack Overflow has been the number one platform where programmers seek answers to these pressing questions. Creating smart questions would only further benefit us and others that might have the same question and problem. Smart questions allow people around the world to understand what issue you are specifically having and do their best using their expertise to help you. Therefore, it is important that as a programmer, we communicate clearly on Stack Overflow and this extends to our clients, managers, and colleagues.
 
