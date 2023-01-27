@@ -19,7 +19,7 @@ As a curious child, I have always asked questions. I would always ask 'why' and 
 
 ## A question considered as not as SMART
 
-Over the recent years, Stack Overflow has emerged as the top platform to ask for help on technical questions that programmers are encountering. As programmers range from various skill levels, the quality of questions can also range from bad to good questions. 
+Over the recent years, Stack Overflow has emerged as the top platform to ask for help on technical questions that programmers are encountering. 
 
 The following example demonstrates a question that is not as smart. The author of the question seeks to write python code for certain conditions. Here is a link to the [question](https://stackoverflow.com/questions/75187919/i-need-help-coding-this-scenario).
 
