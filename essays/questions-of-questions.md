@@ -26,11 +26,6 @@ The following example demonstrates a question that is not as smart. The author o
 ```
 Q: I need help coding this scenario
 
-Closed. This question needs to be more focused. It is not currently accepting answers.
-Want to improve this question? Update the question so it focuses on one problem only by editing this post.
-
-Closed 6 days ago.
-
 I can watch another episode before bed:
 
 If it it is before 1 AM and I don't have work or class in the morning
@@ -41,7 +36,7 @@ Using python code this scenrio
 
 ```
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+Firstly, 
 
 ```
 A: datetime and the datetime.timedelta classes are your friend.
