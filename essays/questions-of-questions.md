@@ -21,7 +21,7 @@ As a curious child, I have always asked questions. I would always ask 'why' and 
 
 Over the recent years, Stack Overflow has emerged as the top platform to ask for help on technical questions that programmers are encountering. As programmers range from various skill levels, the quality of questions can also range from bad to good questions. 
 
-The following example demonstrates a question that is not as smart. The author of the question seeks to write python code for certain conditions. 
+The following example demonstrates a question that is not as smart. The author of the question seeks to write python code for certain conditions. Here is a link to the [question](https://stackoverflow.com/questions/75187919/i-need-help-coding-this-scenario).
 
 ```
 Q: I need help coding this scenario
@@ -46,7 +46,8 @@ I've been using the == operator in my program to compare all my strings so far. 
 Is == bad? When should it and should it not be used? What's the difference?
 
 ```
- 
+Here is a link to the [question](https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java).
+
 Firstly, this person’s title is to the point and descriptive. He/she explains the issue that they are running into in a simple way. In the description, they mention that they usually use the == operator to compare strings. Unfortunately, they ran into a bug and used .equals() instead and it fixed the bug. This question can definitely be done with a simple google search but at the date of the post, I believe the resources on google were not sufficient to answer the question the person asked. Moreover, it seemed like the person did a google search to try to see what alternatives there are to the == operator and tried it in their code. They asked the question on stack overflow for a deeper understanding of the overall concepts of comparison in java. At the end, they also asked what the difference is between == and .equals(), showing their desire to learn more about it 
 
 ## The closing of non-smart questions
