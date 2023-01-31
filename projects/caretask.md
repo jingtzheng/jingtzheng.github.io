@@ -6,7 +6,7 @@ title: "CareTask"
 date: 2021
 published: true
 labels:
-  - Product Development
+  - Product development
   - Figma
 summary: "My team developed a mobile application in Figma for Kapiolani Medical Center for Women and Children to improve consistency and collaboration among patients and healthcare providers."
 ---

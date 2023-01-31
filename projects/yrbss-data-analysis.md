@@ -6,7 +6,7 @@ title: "YRBSS Data Analysis"
 date: 2021
 published: true
 labels:
-  - Data Analysis
+  - Data analysis
   - R
 summary: "My team analyzed YRBSS Data and presented our research findings on the relationship between substance abuse and bullying."
 ---
