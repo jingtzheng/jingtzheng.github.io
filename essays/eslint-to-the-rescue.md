@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="100px" class="float-start pe-4" src="https://imgs.xkcd.com/comics/third_way.png">
+<img width="500px" class="float-start pe-4" src="https://imgs.xkcd.com/comics/third_way.png">
 
 ESLint. What an interesting name! After doing a little bit more research about ESLint and its friends, I realized that all coding tools to check programming and stylistic errors are called something-lint. It is definitely fascinating how the name draws itself from clothes that have lint and we would use a lint roller to remove lint. In terms of computer science, it takes a program that might have errors and uses a linter to check. 
 
