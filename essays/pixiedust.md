@@ -10,7 +10,7 @@ labels:
   - UI Frameworks
 ---
 
-When I first began using HTML and CSS to create a website, it was quite frustrating. Since I was a newbie to all of this, sometimes I wanted some text in the middle of the photo but the text just wouldn’t go right in the center. I tried a lot of different methods until I finally got it. I know that knowing basic CSS is actually really important because you can use it to manipulate and tailor the webpage to what you want instead of using the default ways but it just felt quite challenging. 
+When I first began using HTML and CSS to create a website, it was quite frustrating. Since I was a newbie to all of this, sometimes I wanted some text in the middle of the photo but the text just wouldn’t go right in the center. I tried a lot of different methods until I finally got it. I know that knowing basic CSS is actually really important because you can use it to manipulate and tailor the webpage to what you want instead of using the default ways but it felt quite challenging and time-consuming to create a nice-looking website by only using HTML and CSS. 
 
 
 ## Booting the website 
