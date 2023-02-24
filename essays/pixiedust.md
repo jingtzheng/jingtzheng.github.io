@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Taking my breath away"
+title: "All it takes is a little bit of pixie dust"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
 published: true
