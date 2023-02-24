@@ -20,6 +20,6 @@ Using UI Frameworks like Bootstrap 5 definitely makes everything just a tad bit 
 I tried recreating a website using Bootstrap 5 and overall it went well. Although the website that I created does not look exactly like the original website, I am confident that as I build my web development skills, I will be able to create good-looking websites that are user-friendly. 
 
 <div style="height: 375px">
-<img width="200px" class="rounded float-start pe-4" src="../img/original.jpg">
-<img width="200px" class="rounded float-start pe-4" src="../img/mycreation.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/original.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/mycreation.jpg">
 </div>
