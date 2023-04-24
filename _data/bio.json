@@ -49,7 +49,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Conduct user research and product research on gamified digital health to design web applications for digital psychiatric healthcare",
+        "Develop web applications for digital psychiatric healthcare to be used for data science methods",
         
       ]
     },
@@ -91,6 +91,18 @@
   ],
   "volunteer": [
     {
+      "organization": "Kalani High School",
+      "website": "",
+      "position": "College and Career Peer Mentor",
+      "startDate": "2021-10",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Prepare materials for college and career center workshops",
+        "Provided tips and mentorship for students applying to colleges and feedback on applications"
+      ]
+    },
+    {
       "organization": "AI4ALL - College Pathways",
       "website": "",
       "position": "Discover AI Participant",
@@ -111,11 +123,24 @@
       "summary": "",
       "highlights": [
         "Vice President, Supporting Women in Information Technology & Computing (SWITCH), 2022-Present",
-        "Member, Association for Computing Machinery Manoa, 2021-Present",
+        "Vice Chair, Association for Computing Machinery Women Chapter, 2022-Present",
+        "Member, Association for Computing Machinery Manoa Chapter, 2021-Present",
       ]
     }
   ],
   "awards": [
+    {
+      "title": "Undergraduate Research Opportunities Program Project Funding Recipient",
+      "date": "2023",
+      "awarder": "Vice Provost for Research and Scholarship",
+      "summary": "Received funding to support my research project 'Developing predictive artificial intelligence models on a diverse emotion expression dataset'"
+    },
+    {
+      "title": "Google Computer Science Research Mentorship Program Scholar",
+      "date": "2023-Present",
+      "awarder": "Google",
+      "summary": "Receive 1:1 mentorship to support my pursuit of computing research and develop computing area expertise, technical, and research skills"
+    },
     {
       "title": "Regents Scholarship",
       "date": "2021-Present",
