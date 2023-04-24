@@ -13,7 +13,7 @@ labels:
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is it so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
 Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
 
