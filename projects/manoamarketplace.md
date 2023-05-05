@@ -1,22 +1,15 @@
 ---
 layout: project
 type: project
-image: img/caretask.png
-title: "CareTask"
-date: 2021
+image: img/landing-page.png
+title: "Manoa Marketplace"
+date: 2023
 published: true
 labels:
-  - Product development
-  - Figma
-summary: "My team developed a mobile application in Figma for Kapiolani Medical Center for Women and Children to improve consistency and collaboration among patients and healthcare providers."
+  - Web application
+summary: "My team developed a web application that provides a safe and simple way for students to buy and sell items on campus, giving students a chance to recycle and reuse campus-specific goods."
 ---
 
-Medical Innovation and Design Hawaii is a program where students and faculty from various fields ranging from business, medicine, engineering come together to solve challenging medical problems. 
+Manoa Marketplace is a team project for ICS 314 where we created a web application that provides a safe and simple method for students and faculty to buy and sell items on campus. Main technologies that were used include React, JavaScript, Bootstrap, CSS, Meteor.js. This project used a issue driven development system. I learned a lot about working in a team because My contributions include creating the MongoDB collection, overall user interface design, creating the add listings page, admin all listings page, and admin reported users/listings page, created listing component, added a delete functionality to all listings, and wrote testing for all the pages. 
 
-For this project, we collaborated with the Kapiolani Medical Center for Women and Children Concussion Clinic to design a mobile application that allowed patients and healthcare providers to communicate outside of regular appointment times. The main goal was to create an engaging platform to improve collaboration in rehabilitative care. Self-reflection criterias were also incorporated to encourage patients to reflect on their progress in care. Exercises were assigned based on the individual's condition and patients were encouraged to do these activities and self-reflection between their visits. Appointments continued to take place at the hospital clinic as this mobile application was meant to be a supplemental solution. 
-
-See below for our app prototype.
-<div class="text-center p-4">
-  <img width="500px" src="../img/app-design.jpg" class="img-thumbnail" >
-  
-</div>
+Visit https://manoamarketplace.github.io/ to check out our project!
