@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/open_source.png">
 
-Before I began ICS 314: Software engineering, I thought that computer science meant the same thing as software engineering. However, as I progressed through the class, I like to say that I learned a different aspect of computer science where the focus was less on theory but more on the practical application of computer science. I am sure that the concepts that I learned in this class will be useful for internships and jobs. 
+Before I began ICS 314: Software engineering, I thought that computer science meant the same thing as software engineering. However, as I progressed through the class, I like to say that I learned a different aspect of computer science where the focus was less on theory but more on the practical application of computer science. I am sure that the concepts that I learned in this class will be useful for internships and jobs. Moreover, we often think that computer science is just coding but in reality, there are many concepts beyond the hard skills like knowing different programming languages. 
 
 ## Open Source Development
 
