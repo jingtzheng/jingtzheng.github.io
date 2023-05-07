@@ -20,4 +20,4 @@ My contributions to the project include:
 * Admin reported users/listings page
 * Testing for all pages
 
-Visit https://manoamarketplace.github.io/ to check out our project!
+Visit (https://manoamarketplace.github.io/) to check out our project!
