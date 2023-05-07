@@ -21,6 +21,6 @@ My contributions to the project include:
 * Testing for all pages
 
 <img width="300px" class="rounded float-start pe-4" src="../img/landing-page.png">
-This is a picture of our landing page.
+This is a picture of our landing page, which I designed.
 
 Visit our [GitHub page](https://manoamarketplace.github.io/) to check out our project!
