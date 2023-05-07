@@ -20,4 +20,7 @@ My contributions to the project include:
 * Admin reported users/listings page
 * Testing for all pages
 
+<img width="300px" class="rounded float-start pe-4" src="../img/landing-page.png">
+This is a picture of our landing page.
+
 Visit our [GitHub page](https://manoamarketplace.github.io/) to check out our project!
