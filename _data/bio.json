@@ -89,7 +89,18 @@
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
+    {
+      "organization": "Google Computer Science Research Mentorship Program Scholar",
+      "website": "",
+      "position": "College and Career Peer Mentor",
+      "startDate": "2023-02",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Receive 1:1 mentorship to support my pursuit of computing research and develop computing area expertise, technical, and research skills"
+      ]
+    },
     {
       "organization": "Kalani High School",
       "website": "",
@@ -134,12 +145,6 @@
       "date": "2023",
       "awarder": "Vice Provost for Research and Scholarship",
       "summary": "Received funding to support my research project 'Developing predictive artificial intelligence models on a diverse emotion expression dataset'"
-    },
-    {
-      "title": "Google Computer Science Research Mentorship Program Scholar",
-      "date": "2023-Present",
-      "awarder": "Google",
-      "summary": "Receive 1:1 mentorship to support my pursuit of computing research and develop computing area expertise, technical, and research skills"
     },
     {
       "title": "Regents Scholarship",
