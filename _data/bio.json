@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "SAS", "R", "HTML/CSS", "Javascript", "Python" ]
+      "keywords": [ "Java", "C", "C++", "HTML/CSS", "Javascript", "Python", "SAS", "R" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub" ]
+      "keywords": [ "Git/GitHub", "Vi", "Unix" ]
     }
   ],
   "education": [
@@ -36,7 +36,7 @@
       "studyType": "B.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Discrete Math", "Data Structures", "Software Engineering", "Linear Algebra", "Program Structure"
       ]
     }
   ],
