@@ -6,7 +6,7 @@
     "email": "zhengjt@hawaii.edu",
     "phone": "808-258-5836",
     "website": "https://jingtzheng.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2025.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in December 2024.",
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jingtzheng", "url": "http://github.com/jingtzheng" },
@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "C", "C++", "HTML/CSS", "Javascript", "Python", "SAS", "R" ]
+      "keywords": [ "Java", "C", "C++", "SQL", "HTML/CSS", "JavaScript", "Python", "SAS", "R" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,7 +32,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring 2025)",
+      "area": "Computer Science (expected December 2024)",
       "studyType": "B.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
@@ -42,15 +42,25 @@
   ],
   "work": [
     {
-      "company": "University of Hawaii at Manoa",
+      "company": "Bank of Hawaii",
+      "position": "Data Engineering Intern",
+      "website": "",
+      "startDate": "2023-06",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+
+      ]
+    },
+    {
+      "company": "Hawaii Digital Health Lab",
       "position": "Research Assistant",
       "website": "",
       "startDate": "2022-10",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Develop web applications for digital psychiatric healthcare to be used for data science methods",
-        
+        "Develop web applications for affective computing using JavaScript, Flask (Python), HTML, CSS"
       ]
     },
     {
@@ -98,7 +108,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Receive 1:1 mentorship to support my pursuit of computing research and develop computing area expertise, technical, and research skills"
+        "Receive valuable mentorship from Google engineers and scientists to support my pursuit of computing research and develop computing area expertise, technical, and research skills"
       ]
     },
     {
@@ -135,7 +145,7 @@
       "highlights": [
         "Vice President, Supporting Women in Information Technology & Computing (SWITCH), 2022-Present",
         "Vice Chair, Association for Computing Machinery Women Chapter, 2022-Present",
-        "Member, Association for Computing Machinery Manoa Chapter, 2021-Present",
+        "Member, Association for Computing Machinery Manoa Chapter, 2021-Present"
       ]
     }
   ],
