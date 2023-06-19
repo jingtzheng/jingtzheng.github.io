@@ -4,7 +4,7 @@ type: essay
 title: "Cookies, anybody?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-23
-published: true
+published: false
 labels:
   - Design Patterns
   - Software Engineering

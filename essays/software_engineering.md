@@ -4,7 +4,7 @@ type: essay
 title: "Software engineering ≠ computer science"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-06
-published: true
+published: false
 labels:
   - Ethics
   - Open Source
