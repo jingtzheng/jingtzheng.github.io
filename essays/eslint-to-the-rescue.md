@@ -4,7 +4,7 @@ type: essay
 title: "ESLint to the Rescue!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
-published: true
+published: false
 labels:
   - Software Engineering
   - Coding Standards
