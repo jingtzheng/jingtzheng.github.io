@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/uhcc.png
-title: "Dietary Data Analysis"
+title: "Comparing the characteristics of dietary indices in adults and children in Hawaii and the Pacific"
 date: 2022
 published: true
 labels:
