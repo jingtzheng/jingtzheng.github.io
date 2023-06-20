@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/yrbss.jpg
-title: "YRBSS Data Analysis"
+title: "Youth Bullying and Tobacco Use in the State of Hawai’i"
 date: 2021
 published: true
 labels:
