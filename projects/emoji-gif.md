@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/project-day.jpeg
+image: img/project-day.png
 title: "Developing a web application for affective computing"
 date: 2023
 published: true
