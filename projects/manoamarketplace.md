@@ -13,7 +13,7 @@ labels:
 summary: "My team developed a web application that provides a safe and simple way for students to buy and sell items on campus, giving students a chance to recycle and reuse campus-specific goods."
 ---
 
-Manoa Marketplace is a team project for ICS 314: Software Engineering where we created a web application that provides a safe and simple method for students and faculty to buy and sell items on campus. Main technologies that were used include React, JavaScript, Bootstrap, CSS, Meteor.js. This project used a issue driven project management system where each issue was documented as a task in a GitHub project board. 
+Manoa Marketplace is a team project for ICS 314: Software Engineering where we created a web application that provides a safe and simple method for students and faculty to buy and sell items on campus. Main technologies that were used include React, JavaScript, Bootstrap, CSS, Meteor.js, GitHub. This project used a issue driven project management system where each task was documented as an issue in a GitHub project board. 
 
 I learned a lot about working in a team because I often work on individual assignments in my computer science courses and this was the first team project that I worked on. I also learned a lot about GitHub and how it works, especially in a team environment. I also realize how important communication is so that everybody is on the same page and understands what your thoughts are. I heavily worked on quality assurance by following coding standards, conducting acceptance testing using TestCafe, and implemented continuous integration using GitHub Actions. 
 
