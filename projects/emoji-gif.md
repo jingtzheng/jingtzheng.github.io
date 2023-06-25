@@ -16,7 +16,7 @@ summary: "I am developing a web application using Flask, JavaScript, HTML, CSS t
 
 I am currently conducting research under Dr. Peter Washington where I develop web applications for affective computing. In this project, users are able to record a video of themselves acting out an emoji and will assign a caption to the video in a fun and engaging way. The data will then be used to curate a emotion expression dataset that will be used in machine learning to create models that can recognize emotion. User studies will run based on human-computer interaction design methods. Research has been IRB approved by the University of Hawaii Institutional Review Board. 
 
-The main tools that are being used are Flask, JavaScript, HTML/CSS, and Amazon Web Services. 
+The main tools used are Flask, JavaScript, HTML/CSS, and Amazon Web Services. 
 
 You can find my poster about the current work below.
 
