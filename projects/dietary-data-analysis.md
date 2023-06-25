@@ -10,7 +10,7 @@ labels:
   - Research
   - Data visualization
   - SAS
-summary: "I presented my findings on the topic of comparing dietary indicies among adults and children in the Pacific."
+summary: "I examined different dietary indicies among adults and children in the Pacific and assessed the differences in quantifying diet quality."
 ---
 
 I conducted research at the University of Hawaii Cancer Center under Dr. Lynne Wilkens. I worked independently on a research project where I compared the dietary indices between adults and children living in the Pacific. I used multiple large datasets involving over 100,000 participant's data. The datasets I specifically used were the Multiethnic Cohort Study, Expanded Food and Nutrition Education Program (EFNEP), and Children's Healthy Living Program. I  performed statistical analysis, data wrangling, and data visualization using SAS and communicated my findings through a poster presentation to faculty researchers and the community. 
