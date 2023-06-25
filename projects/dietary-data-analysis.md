@@ -7,8 +7,9 @@ date: 2022
 published: true
 labels:
   - Statistics
-  - Data analysis
+  - Research
   - Data visualization
+  - SAS
 summary: "I presented my findings on the topic of comparing dietary indicies among adults and children in the Pacific."
 ---
 
