@@ -6,7 +6,10 @@ title: "Manoa Marketplace"
 date: 2023
 published: true
 labels:
-  - Web application
+  - JavaScript
+  - React
+  - Meteor.js
+  - Bootstrap
 summary: "My team developed a web application that provides a safe and simple way for students to buy and sell items on campus, giving students a chance to recycle and reuse campus-specific goods."
 ---
 
