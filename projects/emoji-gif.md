@@ -6,8 +6,9 @@ title: "Developing a web application for affective computing"
 date: 2023
 published: true
 labels:
-  - Web Development
-  - Affective computing
+  - HTML/CSS
+  - Flask
+  - JavaScript
   - Research
 summary: "I am developing a web application using Flask, JavaScript, HTML, CSS to create a diverse emotion expression dataset."
 ---
