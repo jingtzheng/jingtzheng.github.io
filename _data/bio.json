@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "C", "C++", "SQL", "HTML/CSS", "JavaScript", "Python", "SAS", "R" ]
+      "keywords": [ "Java", "C", "C++", "SQL", "HTML/CSS", "JavaScript", "Python", "Flask", "Meteor.js", "React", "Bootstrap", "SAS", "R" ]
     },
     {
       "name": "Toolsets/OS",
@@ -151,9 +151,9 @@
   ],
   "awards": [
     {
-      "title": "Undergraduate Research Project Funding Recipient",
+      "title": "Undergraduate Research Project Funding",
       "date": "2023",
-      "awarder": "Vice Provost for Research and Scholarship",
+      "awarder": "University of Hawaii Vice Provost for Research and Scholarship",
       "summary": "Received funding to support my research project 'Developing predictive artificial intelligence models on a diverse emotion expression dataset'"
     },
     {
@@ -161,12 +161,6 @@
       "date": "2021",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Prestigious, full tuition scholarship awarded to 20 freshmen for 4 years of undergraduate study, $4000 yearly stipend, and a $2000 travel stipend."
-    },
-    {
-      "title": "Aspirations in Computing State Winner",
-      "date": "2020",
-      "awarder": "National Center for Women and Information Technology",
-      "summary": "Recognized for having significantly demonstrated interest and aptitude for computing."
     }
   ],
   "references": [
