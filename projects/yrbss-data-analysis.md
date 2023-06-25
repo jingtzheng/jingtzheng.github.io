@@ -7,7 +7,8 @@ date: 2021
 published: true
 labels:
   - R
-  - Data analysis
+  - Research
+  - Statistics
   - Data visualization
 summary: "My team analyzed YRBSS Data and presented our research findings on the relationship between substance abuse and bullying."
 ---
