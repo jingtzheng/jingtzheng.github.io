@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "C", "C++", "SQL", "HTML/CSS", "JavaScript", "Python", "Flask", "Meteor.js", "React", "Bootstrap", "SAS", "R" ]
+      "keywords": [ "Java", "C", "C++", "Python", "HTML/CSS", "Flask", "SQL", "JavaScript", "React", "Meteor.js", "SAS", "R" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub", "Vi", "Unix" ]
+      "keywords": [ "Git/GitHub", "Vi", "Unix", "IntelliJ", "Pycharm", "Eclipse" ]
     }
   ],
   "education": [
@@ -36,7 +36,7 @@
       "studyType": "B.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [ "Discrete Math", "Data Structures", "Software Engineering", "Linear Algebra", "Program Structure"
+      "courses": [ "Data Structures", "Algorithms", "Database Systems", "Software Engineering", "Linear Algebra", "Discrete Math"
       ]
     }
   ],
@@ -49,7 +49,9 @@
       "endDate": "2023-08",
       "summary": "",
       "highlights": [
-
+        "Built comprehensive documentation to define downstream and upstream data workflow and integration processes by extracting     
+data using SQL, improving data management and governance", 
+        "Investigated data transformations in accounting data to translate them into efficient data pipelines and data processing workflows, reducing manual work and increasing operational efficiency"
       ]
     },
     {
@@ -60,7 +62,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Develop web applications for affective computing using JavaScript, Flask (Python), HTML, CSS"
+        "Create a full-stack web application using Flask, Python, JavaScript, HTML/CSS, Amazon Web Services to gather
+diverse research data for machine learning purposes to study affective computing"
       ]
     },
     {
@@ -72,7 +75,7 @@
       "summary": "",
       "highlights": [
         "Organize monthly volunteer projects and events to increase civic engagement in students",
-        "Oversee product development and communication for a civic engagement web application to facilitate community service events and opportunities"
+        "Oversee product development and communication for a civic engagement web application to facilitate community service events and engagement among the campus community"
       ]
     },
       {
@@ -83,8 +86,8 @@
       "endDate": "2022-07",
       "summary": "",
       "highlights": [
-        "Performed data wrangling and statistical analyses using SAS on complex and large datasets",
-        "Implemented data visualization techniques to showcase findings on the topic of comparing dietary indices in children and adults in the Pacific"    
+        "Performed data wrangling and statistical analyses like Pearson correlation coefficient using SAS on multiple large datasets involving over 100,000 participant’s data",
+        "mplemented data visualization techniques to communicate findings on the topic of comparing dietary indices in children and adults in the Pacific to the general public"    
       ]
     },
     {
@@ -108,7 +111,7 @@
       "endDate": "2023-05",
       "summary": "",
       "highlights": [
-        "Receive valuable mentorship from Google engineers and scientists to support my pursuit of computing research and develop computing area expertise, technical, and research skills"
+        "Participated in machine learning research discussions and computing pathways exploration while being mentored by a Google researcher working in the applied research area."
       ]
     },
     {
@@ -142,7 +145,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Vice President, Supporting Women in Information Technology & Computing (SWITCH), 2022-Present",
+        "Co-Vice President, Supporting Women in Information Technology & Computing (SWITCH), 2022-Present",
         "Vice Chair, Association for Computing Machinery Women Chapter, 2022-Present",
         "Member, Association for Computing Machinery Manoa Chapter, 2021-Present"
       ]
