@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "Jing Ting Zheng",
+    "label": "Student",
+    "picture": "https://github.com/jingtzheng.png",
+    "email": "zhengjt [at] hawaii [dot] edu",
+    "phone": "",
+    "website": "https://jingtzheng.github.io",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in May 2025.",
+    "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jingtzheng", "url": "http://github.com/jingtzheng" },
+      { "network": "linkedin", "username": "jtzheng", "url": "http://linkedin.com/in/jtzheng" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Human-Computer Interaction" },
+    { "name": "Data Science" },
+    { "name": "Product Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "C", "C++", "Python", "HTML/CSS", "Flask", "SQL", "JavaScript", "React", "Meteor.js", "SAS", "R" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub", "Vi", "Unix", "IntelliJ", "Pycharm", "Eclipse" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected May 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [ "Data Structures", "Algorithms", "Database Systems", "Software Engineering", "Linear Algebra", "Discrete Math"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Hawaii Digital Health Lab",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2022-10",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Create a full-stack web application using Flask, Python, JavaScript, HTML/CSS, Amazon Web Services to gather diverse research data for machine learning purposes to study affective computing"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Volunteer Projects Assistant",
+      "website": "",
+      "startDate": "2021-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Organize monthly volunteer projects and events to increase civic engagement in students",
+        "Oversee product development and communication for a civic engagement web application to facilitate community service events and engagement among the campus community"
+      ]
+    },
+    {
+      "company": "Bank of Hawaii",
+      "position": "Data Engineering Intern",
+      "website": "",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "summary": "",
+      "highlights": [
+        "Built comprehensive documentation to define downstream and upstream data workflow and integration processes by extracting data using SQL, improving data management and governance", 
+        "Investigated data transformations in accounting data to translate them into efficient data pipelines and data processing workflows, reducing manual work and increasing operational efficiency"
+      ]
+    },
+      {
+      "company": "University of Hawaii Cancer Center",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2022-05",
+      "endDate": "2022-07",
+      "summary": "",
+      "highlights": [
+        "Performed data wrangling and statistical analyses like Pearson correlation coefficient using SAS on multiple large datasets involving over 100,000 participant’s data",
+        "mplemented data visualization techniques to communicate findings on the topic of comparing dietary indices in children and adults in the Pacific to the general public"    
+      ]
+    },
+    {
+      "company": "Pacific Health Analytics Collaborative",
+      "position": "Data Analytics Intern",
+      "website": "",
+      "startDate": "2021-06",
+      "endDate": "2021-07",
+      "summary": "",
+      "highlights": [
+        "Analyzed Youth Risk Behavior Surveillance System data using statistical analyses in R and communicated results using data visualizations"    
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Google",
+      "website": "",
+      "position": "Computer Science Research Mentorship Program Scholar",
+      "startDate": "2023-02",
+      "endDate": "2023-05",
+      "summary": "",
+      "highlights": [
+        "Participated in machine learning research discussions and computing pathways exploration while being mentored by a Google researcher working in the applied research area."
+      ]
+    },
+    {
+      "organization": "Kalani High School",
+      "website": "",
+      "position": "College and Career Peer Mentor",
+      "startDate": "2021-10",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Provide insightful mentorship to students regarding college admissions and applications, scholarship essays, interview tips, and prepare materials for college and career workshops"
+      ]
+    },
+    {
+      "organization": "AI4ALL - College Pathways",
+      "website": "",
+      "position": "Discover AI Participant",
+      "startDate": "2022-09",
+      "endDate": "2022-12",
+      "summary": "",
+      "highlights": [
+        "Investigated the societal and ethical impacts of artificial intelligence and data processing",
+        "Learned about the applications and technical concepts of the different types of machine learning"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Co-Vice President, Supporting Women in Information Technology & Computing (SWITCH), 2022-Present",
+        "Vice Chair, Association for Computing Machinery Women Chapter, 2022-Present",
+        "Member, Association for Computing Machinery Manoa Chapter, 2021-Present"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Undergraduate Research Project Funding",
+      "date": "2023",
+      "awarder": "University of Hawaii Vice Provost for Research and Scholarship",
+      "summary": "Received competitive research funding to support my project 'Developing predictive artificial intelligence models on a diverse emotion expression dataset'"
+    },
+    {
+      "title": "Regents Scholarship",
+      "date": "2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Prestigious, full tuition scholarship awarded to 20 freshmen for 4 years of undergraduate study, $4000 yearly stipend, and a $2000 travel stipend."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
