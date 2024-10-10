@@ -6,7 +6,7 @@
     "email": "zhengjt [at] hawaii [dot] edu",
     "phone": "",
     "website": "https://jingtzheng.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in December 2024.",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in May 2025.",
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jingtzheng", "url": "http://github.com/jingtzheng" },
@@ -32,11 +32,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected December 2024)",
+      "area": "Computer Science (expected May 2025)",
       "studyType": "B.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [ "Data Structures", "Algorithms", "Database Systems", "Software Engineering", "Linear Algebra", "Discrete Math", "Operating Systems", "Human Computer Interaction", "Data Science Fundamentals", "Probability and Statistics"
+      "courses": [ "Data Structures", "Algorithms", "Database Systems", "Software Engineering", "Linear Algebra", "Discrete Math", "Operating Systems", "Human Computer Interaction", "Data Science Fundamentals", "Probability and Statistics", "Computer Security", "Big Data Analytics", "Data Visualization"
       ]
     }
   ],
