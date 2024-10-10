@@ -4,7 +4,7 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Deploy Jekyll site to Pages 2
 
 on:
   # Runs on pushes targeting the default branch
@@ -41,7 +41,7 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v4
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
