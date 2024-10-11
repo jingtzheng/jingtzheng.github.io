@@ -124,15 +124,15 @@
       ]
     },
     {
-      "organization": "AI4ALL - College Pathways",
+      "organization": "Medical Innovation and Design Hawaii",
       "website": "",
-      "position": "Discover AI Participant",
-      "startDate": "2022-09",
-      "endDate": "2022-12",
+      "position": "Co-Project Lead",
+      "startDate": "2021-08",
+      "endDate": "2022-04",
       "summary": "",
       "highlights": [
-        "Investigated the societal and ethical impacts of artificial intelligence and data processing",
-        "Learned about the applications and technical concepts of the different types of machine learning"
+        "Designed a mobile application prototype in Figma for Kapiolani Medical Center to improve collaboration and consistency in rehabilitative care between patients and healthcare providers",
+        "Aligned product development with user needs and business goals by conducting in-depth user research and adhering to strict HIPAA compliance standards"
       ]
     },
     {
@@ -143,19 +143,13 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Co-Vice President, Supporting Women in Information Technology & Computing (SWITCH), 2022-Present",
-        "Vice Chair, Association for Computing Machinery Women Chapter, 2022-Present",
+        "Co-President, Supporting Women in Information Technology & Computing (SWITCH), 2022-Present",
+        "Chair, Association for Computing Machinery Women Chapter, 2022-Present",
         "Member, Association for Computing Machinery Manoa Chapter, 2021-Present"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "Undergraduate Research Project Funding",
-      "date": "2023",
-      "awarder": "University of Hawaii Vice Provost for Research and Scholarship",
-      "summary": "Received competitive research funding to support my project 'Developing predictive artificial intelligence models on a diverse emotion expression dataset'"
-    },
     {
       "title": "Regents Scholarship",
       "date": "2021",
