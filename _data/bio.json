@@ -7,7 +7,7 @@
     "phone": "",
     "website": "https://jingtzheng.github.io",
     "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in May 2025.",
-    "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jingtzheng", "url": "http://github.com/jingtzheng" },
       { "network": "linkedin", "username": "jtzheng", "url": "http://linkedin.com/in/zhengjt" }
@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "C", "C++", "Python", "HTML/CSS", "Flask", "SQL", "JavaScript", "React", "Meteor.js", "SAS"]
+      "keywords": [ "Python", "JavaScript", "C/C++", "SQL", "Java", "HTML/CSS", "Flask", "React", "Express.js", "Node.js", "Meteor.js"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub", "Vi", "Unix", "IntelliJ", "Pycharm", "Eclipse", "VSCode" ]
+      "keywords": [ "Git/GitHub", "Vi", "Linux", "IntelliJ", "Pycharm", "Eclipse", "VSCode" ]
     }
   ],
   "education": [
@@ -43,28 +43,28 @@
   "work": [
     {
       "company": "Hawaii Digital Health Lab",
-      "position": "Research Assistant",
+      "position": "Undergraduate Researcher",
       "website": "",
       "startDate": "2022-10",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Create a full-stack web application using Flask, Python, JavaScript, HTML/CSS, Amazon Web Services to gather diverse research data for machine learning purposes to study affective computing. Running a mixed-methods human-computer interaction (HCI) study to evaluate the usability of the system and the system's capacity to gather useful data and labels for training affective computing AI models."
+        "Create a full-stack web application using Flask, Python, JavaScript, HTML/CSS, Amazon Web Services to gather structured and unstructured research data for affective computing studies. Running a mixed-methods human-computer interaction (HCI) study to evaluate the usability of the system and the system's capacity to gather useful data and labels for training affective computing AI models."
       ]
     },
     {
-      "company": "University of Hawaii at Manoa",
-      "position": "Volunteer Projects Assistant",
+      "company": "Booz Allen Hamilton",
+      "position": "Software Engineering Intern",
       "website": "",
-      "startDate": "2021-08",
-      "endDate": "2023-12",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
       "summary": "",
       "highlights": [
-        "Organize monthly volunteer projects and events to increase civic engagement in students",
-        "Oversee product development and communication for a civic engagement web application to facilitate community service events and engagement among the campus community"
+        "Developed a robust web application with React, Node.js, Express.js to optimize naval asset routing planning for enhanced and rapid decision making capabilities",
+        "Improved asset readiness and support for mission-critical operations through interactive map visualizations with Leaflet and seamless integration with military systems"
       ]
     },
-    {
+      {
       "company": "Bank of Hawaii",
       "position": "Data Engineering Intern",
       "website": "",
