@@ -3,26 +3,24 @@
     "name": "Jing Ting Zheng",
     "label": "Student",
     "picture": "https://github.com/jingtzheng.png",
-    "email": "zhengjt [at] hawaii [dot] edu",
+    "email": "jingzheng [at] berkeley [dot] edu",
     "phone": "",
     "website": "https://jingtzheng.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in May 2025.",
-    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I graduated from the University of California, Berkeley with a Master's of Engineering in Electrical Engineering and Computer Sciences in May 2026.",
+    "location": { "address": "", "postalCode": "", "city": "Berkeley", "countryCode": "USA", "region": "California" },
     "profiles": [
       { "network": "github", "username": "jingtzheng", "url": "http://github.com/jingtzheng" },
-      { "network": "linkedin", "username": "jtzheng", "url": "http://linkedin.com/in/zhengjt" }
+      { "network": "linkedin", "username": "jingtzheng", "url": "http://linkedin.com/in/jingtzheng" }
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Data Engineering" },
-    { "name": "Data Science" },
-    { "name": "Product Development" }
+    { "name": "Backend Development" },
+    { "name": "AI Safety" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "JavaScript", "C/C++", "SQL", "Java", "HTML/CSS", "Flask", "React", "Express.js", "Node.js", "Meteor.js"]
+      "keywords": [ "Python", "JavaScript", "TypeScript", "C/C++", "SQL", "Java", "HTML/CSS", "Flask", "React", "Express.js", "Node.js", "Meteor.js", "PyTorch", "TensorFlow", "Scikit-learn", "Pandas", "NumPy"]
     },
     {
       "name": "Toolsets/OS",
@@ -31,22 +29,51 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected May 2025)",
+      "institution": "University of California, Berkeley",
+      "area": "Electrical Engineering and Computer Sciences",
+      "studyType": "M.Eng.",
+      "startDate": "2025-08",
+      "endDate": "2026-05",
+      "courses": [ "Natural Language Processing", "Agentic AI", "Reinforcement Learning", "Computer Security"]
+    },
+    {
+      "institution": "University of Hawaii, Manoa",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2021-08-23",
-      "endDate": "Present",
+      "endDate": "2025-05",
       "courses": [ "Data Structures", "Algorithms", "Database Systems", "Software Engineering", "Linear Algebra", "Discrete Math", "Operating Systems", "Human Computer Interaction", "Data Science Fundamentals", "Probability and Statistics", "Computer Security", "Big Data Analytics", "Data Visualization"
       ]
     }
   ],
   "work": [
     {
+      "company": "International Computer Science Institute",
+      "position": "Graduate Student Researcher",
+      "website": "",
+      "startDate": "2025-09",
+      "endDate": "2026-05",
+      "summary": "",
+      "highlights": [
+        "Multi-turn jailbreak attack benchmarking"
+         ]
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "position": "Software Engineering Intern",
+      "website": "",
+      "startDate": "2025-06",
+      "endDate": "2025-08",
+      "summary": "",
+      "highlights": [
+             ]
+    },
+    {
       "company": "Hawaii Digital Health Lab",
       "position": "Undergraduate Researcher",
       "website": "",
       "startDate": "2022-10",
-      "endDate": "Present",
+      "endDate": "2024-12",
       "summary": "",
       "highlights": [
         "Create a full-stack web application using Flask, Python, JavaScript, HTML/CSS, Amazon Web Services to gather structured and unstructured research data for affective computing studies.", 
@@ -118,7 +145,7 @@
       "website": "",
       "position": "College and Career Peer Mentor",
       "startDate": "2021-10",
-      "endDate": "Present",
+      "endDate": "2025-05",
       "summary": "",
       "highlights": [
         "Provide insightful mentorship to students regarding college admissions and applications, scholarship essays, interview tips, and prepare materials for college and career workshops"
@@ -144,9 +171,9 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Co-President, Supporting Women in Information Technology & Computing (SWITCH), 2022-Present",
-        "Chair, Association for Computing Machinery Women Chapter, 2022-Present",
-        "Member, Association for Computing Machinery Manoa Chapter, 2021-Present"
+        "President, Supporting Women in Information Technology & Computing (SWITCH), 2022-2025",
+        "Chair, Association for Computing Machinery Women Chapter, 2022-2025",
+        "Member, Association for Computing Machinery Manoa Chapter, 2021-2025"
       ]
     }
   ],
@@ -156,6 +183,11 @@
       "date": "2021",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Prestigious, full tuition scholarship awarded to 20 freshmen for 4 years of undergraduate study, $4000 yearly stipend, and a $2000 travel stipend."
+    },
+    {
+      "title": "Fung ExcellenceScholarship",
+      "date": "2025",
+      "awarder": "University of California, Berkeley",
     }
   ],
   "references": [
